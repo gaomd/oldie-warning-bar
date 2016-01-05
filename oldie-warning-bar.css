@@ -1,0 +1,15 @@
+.oldie-warning-bar {
+    font-family: Arial, Tahoma, sans-serif;
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    background: #fff;
+    font-size: 16px;
+}
+
+.oldie-warning-bar p {
+    margin: 0 auto 0.5em auto;
+}
+
+.oldie-warning-bar a {
+    color: #4078C0;
+}
